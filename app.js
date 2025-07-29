@@ -14,7 +14,7 @@ const songs = [
   "Ramuloo.mp3",
   "Madanmanjiri.mp3",
   "Rowdy Baby.mp3",
-  "Dil To Pagal .mp3",
+  "Dil To Pagal.mp3",
   "love.mp3",
   "Kaadhal Kaditham.mp3",
   "uditnarayan.mp3",
