@@ -1,0 +1,22 @@
+{
+  "name": "playlist-website",
+  "version": "1.0.0",
+  "description": "A modern playlist website where users can play their songs.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'Test step not defined'"
+  },
+  "keywords": [
+    "music",
+    "playlist",
+    "web",
+    "audio"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
