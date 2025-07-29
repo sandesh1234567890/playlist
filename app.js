@@ -3,22 +3,22 @@ const currentSong = document.getElementById("currentSong");
 const playlistEl = document.getElementById("playlist");
 
 const songs = [
-  "assets/songs/Shree krishn.mp3",
-  "assets/songs/Rasraj Ji Maharaj.mp3",
-  "assets/songs/Ye Chamak Ye Damak.mp3",
-  "assets/songs/Arambh_hai_prachand.mp3",
-  "assets/songs/song1.mp3",
-  "assets/songs/Aankhein.mp3",
-  "assets/songs/Butta.mp3",
-  "assets/songs/Ranuranu.mp3",
-  "assets/songs/Ramuloo.mp3",
-  "assets/songs/Madanmanjiri.mp3",
-  "assets/songs/Rowdy Baby.mp3",
-  "assets/songs/Dil To Pagal.mp3",
-  "assets/songs/love.mp3",
-  "assets/songs/Kaadhal Kaditham.mp3",
-  "assets/songs/uditnarayan.mp3",
-  "assets/songs/amir.mp3",
+  "Shree krishn.mp3",
+  "Rasraj Ji Maharaj.mp3",
+  "Ye Chamak Ye Damak.mp3",
+  "Arambh_hai_prachand.mp3",
+  "song1.mp3",
+  "Aankhein.mp3",
+  "Butta.mp3",
+  "Ranuranu.mp3",
+  "Ramuloo.mp3",
+  "Madanmanjiri.mp3",
+  "Rowdy Baby.mp3",
+  "Dil To Pagal.mp3",
+  "love.mp3",
+  "Kaadhal Kaditham.mp3",
+  "uditnarayan.mp3",
+  "amir.mp3",
     
 ];
 let currentIndex = 0;
